@@ -100,7 +100,7 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>Welcome to 2024 on solana 🚀</h1>
+        <h1>$2024 on solana 🚀</h1>
         <p>
           A fair, simple & decentralized casino on Solana.
         </p>
