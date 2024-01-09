@@ -107,7 +107,7 @@ export function WelcomeBanner() {
       </div>
       <Buttons>
         <button onClick={() => window.open('https://birdeye.so/token/FEhFubLJTk7AXqBkKiAd83DPX75i5hWtf6CiHBnzYi4D?chain=solana', '_blank')}>
-          🚀 buy 2024 token
+          🚀 buy $2024
         </button>
         <button onClick={() => window.open('https://twitter.com/solon2024', '_blank')}>
           👨‍💻 Twitter
