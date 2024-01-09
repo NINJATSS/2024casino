@@ -106,11 +106,11 @@ export function WelcomeBanner() {
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://v2.gamba.so/', '_blank')}>
-          🚀 Add Liqudity
+        <button onClick={() => window.open('https://birdeye.so/token/FEhFubLJTk7AXqBkKiAd83DPX75i5hWtf6CiHBnzYi4D?chain=solana', '_blank')}>
+          🚀 buy 2024 token
         </button>
-        <button onClick={() => window.open('https://github.com/gamba-labs/gamba', '_blank')}>
-          👨‍💻 Build your own
+        <button onClick={() => window.open('https://twitter.com/solon2024', '_blank')}>
+          👨‍💻 Twitter
         </button>
         <button onClick={() => window.open('https://t.me/solon2024', '_blank')}>
           💬 Telegram 
